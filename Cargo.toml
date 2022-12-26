@@ -1,7 +1,7 @@
 [package]
 name = "advent_of_code"
 version = "0.8.0"
-authors = ["Felix Spöttel <1682504+fspoettel@users.noreply.github.com>"]
+authors = ["Miguel Blanco <miguel.blanco.marcosl@gmail.com>"]
 edition = "2021"
 default-run = "advent_of_code"
 publish = false
